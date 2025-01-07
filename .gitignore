@@ -1,2 +1,4 @@
-final
+final/stage-1/v01-xgboost/*.csv
+final/stage-1/v02-lightgbm/*.csv
+final/stage-2/*.csv
 pdf
